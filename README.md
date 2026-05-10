@@ -119,4 +119,6 @@ Artificial Intelligence • Distributed Systems • AI Product Development • O
 
 ## 🎧 Currently Listening
 
+<div align="center">
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21aakc5r3esuvs65ibsnx7xci)
+</div>
