@@ -82,10 +82,10 @@
 
 ## 📚 Education
 
-### Federal Institute of Rio Grande do Sul (IFRS)
+### Instituto Federal do Rio Grande do Sul (@IFRS)
 Technologist in Internet Systems
 
-### Federal University of Goiás (UFG)
+### Universidade Federal de Goiás (@UFG)
 Bachelor of Physics (incomplete)
 
 ---
@@ -109,7 +109,7 @@ Outside of technology, I'm passionate about music and gaming.
 
 ## ⚡ Interests
 
-Artificial Intelligence • Distributed Systems • Platform Engineering • Developer Experience • Observability • Automation • Scalable Architectures • Product Engineering • AI Infrastructure
+Artificial Intelligence • Distributed Systems • AI Product Development • Observability • Automation • SRE • Scalable Architectures • Product Engineering • AI Infrastructure • Cybersecurity
 
 ---
 
