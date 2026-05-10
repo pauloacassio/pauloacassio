@@ -117,8 +117,8 @@ Artificial Intelligence • Distributed Systems • AI Product Development • O
 
 ---
 
-## 🎧 Currently Listening
+<h2 align="center">🎧 Currently Listening</h2>
 
-<div align="center">
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21aakc5r3esuvs65ibsnx7xci)
-</div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21aakc5r3esuvs65ibsnx7xci" />
+</p>
