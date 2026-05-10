@@ -1,12 +1,5 @@
 # Hi there, I'm Paulo Oliveira 👋
 
-## Software Engineer | Technical Product Manager | AI & Backend Systems
-
-Passionate about building scalable AI-powered platforms, backend systems, and developer-focused solutions.
-
-I work in parallel as a Technical Product Manager while remaining hands-on in software engineering, contributing directly to the design and development of AI-based systems, backend services, automation frameworks, and internal platforms.
-
----
 
 <table>
 <tr>
@@ -14,13 +7,13 @@ I work in parallel as a Technical Product Manager while remaining hands-on in so
 
 ## 🚀 About Me
 
-- 💻 Software Engineer focused on AI, backend systems, automation, and platform engineering
-- 🤖 Hands-on experience with LLMs, RAG pipelines, embeddings, and AI-powered applications
-- ⚙️ Experienced building internal tools using Python, FastAPI, LangChain, .NET, Angular, and React
-- 🏢 Currently working at Dell Technologies leading initiatives involving Generative AI, backend development, observability, and enterprise financial systems
-- 📊 Strong background in observability, reliability engineering, and operational excellence
-- 🧠 Interested in distributed systems, scalable architectures, and modern AI infrastructure
-- 📍 Based in Porto Alegre, Brazil
+- 📍 Based in Porto Alegre/RS, Brazil;
+- 💻 Currently I'm a Technical Product Manager @Dell Technologies;
+- ⚙️ Experienced building tools using Python, FastAPI, LangChain, .NET, Angular, and React;
+- 🤖 Hands-on experience with LLMs, RAG, embeddings, and AI-powered applications;
+- 📊 Strong background in observability, automation, reliability engineering, and cybersecurity;
+- 🧠 Interested in distributed systems, scalable architectures, AI product development, and modern AI infrastructure;
+
 
 </td>
 
@@ -39,7 +32,7 @@ I work in parallel as a Technical Product Manager while remaining hands-on in so
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ I code with
 
 ### Languages & Backend
 - Python
@@ -96,14 +89,14 @@ Highlights:
 - Developed Python automations and operational tooling
 - Built observability dashboards and monitoring solutions
 - Contributed to RAG chatbot initiatives
-- Supported enterprise-scale financial systems
+- Supported enterprise financial systems
 - Reduced operational toil through automation
 
 ---
 
 ## 🏆 Achievements
 
-- 🇺🇸 U.S. Patent granted — [Customer service ticket similarity determination using updated encoding model based on similarity feedback from user](https://ppubs.uspto.gov/api/pdf/downloadPdf/12314878?requestToken=eyJzdWIiOiI2MjFmYTBmOS1mZmZlLTRiYjUtODRlNi00NzRlODViMWY1NTUiLCJ2ZXIiOiI4ODQ4YjMxMC03YTRlLTQ0YTUtYTdlNS1mYzM4ZWZkYWZlY2IiLCJleHAiOjB9)
+- 🧑‍🔬 U.S. Patent granted — [Customer service ticket similarity determination using updated encoding model based on similarity feedback from user](https://ppubs.uspto.gov/api/pdf/downloadPdf/12314878?requestToken=eyJzdWIiOiI2MjFmYTBmOS1mZmZlLTRiYjUtODRlNi00NzRlODViMWY1NTUiLCJ2ZXIiOiI4ODQ4YjMxMC03YTRlLTQ0YTUtYTdlNS1mYzM4ZWZkYWZlY2IiLCJleHAiOjB9)
 - 🧠 Patent Number: 12314878
 - 📈 Led automation initiatives that eliminated hundreds of hours of manual operational work
 - 🔐 Managed vulnerability remediation initiatives across enterprise financial systems
@@ -134,7 +127,6 @@ Outside of technology, I'm passionate about music and gaming.
 - 🎮 Huge fan of Soulslike games, especially the Dark Souls franchise and Elden Ring
 - 🎸 I play acoustic guitar and electric guitar in my free time
 - 🎵 Charlie Brown Jr. is my favorite band
-- ☕ I enjoy combining creativity, music, and technology in both personal and professional projects
 
 ---
 
