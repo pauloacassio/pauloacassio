@@ -71,32 +71,6 @@
 ###
 ---
 
-## 🏢 Professional Experience
-
-### Technical Product Manager | Dell Technologies
-
-Leading strategic initiatives for enterprise financial systems focused on AI-driven solutions, backend platforms, automation, and observability.
-
-Actively contributing hands-on to:
-- AI-based internal platforms
-- Backend services and APIs
-- Automation frameworks
-- Reliability engineering initiatives
-- LLM and RAG-based solutions
-
-### Software Engineer | Dell Technologies
-
-Worked across Security Engineering, SRE, automation, and GenAI initiatives.
-
-Highlights:
-- Developed Python automations and operational tooling
-- Built observability dashboards and monitoring solutions
-- Contributed to RAG chatbot initiatives
-- Supported enterprise financial systems
-- Reduced operational toil through automation
-
----
-
 ## 🏆 Achievements
 
 - 🧑‍🔬 U.S. Patent granted — [Customer service ticket similarity determination using updated encoding model based on similarity feedback from user](https://ppubs.uspto.gov/api/pdf/downloadPdf/12314878?requestToken=eyJzdWIiOiI2MjFmYTBmOS1mZmZlLTRiYjUtODRlNi00NzRlODViMWY1NTUiLCJ2ZXIiOiI4ODQ4YjMxMC03YTRlLTQ0YTUtYTdlNS1mYzM4ZWZkYWZlY2IiLCJleHAiOjB9)
