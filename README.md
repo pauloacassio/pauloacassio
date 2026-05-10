@@ -73,8 +73,7 @@
 
 ## 🏆 Achievements
 
-- 🧑‍🔬 U.S. Patent granted — [Customer service ticket similarity determination using updated encoding model based on similarity feedback from user](https://ppubs.uspto.gov/api/pdf/downloadPdf/12314878?requestToken=eyJzdWIiOiI2MjFmYTBmOS1mZmZlLTRiYjUtODRlNi00NzRlODViMWY1NTUiLCJ2ZXIiOiI4ODQ4YjMxMC03YTRlLTQ0YTUtYTdlNS1mYzM4ZWZkYWZlY2IiLCJleHAiOjB9)
-- 🧠 Patent Number: 12314878
+- 🧑‍🔬 U.S. Patent granted — Customer service ticket similarity determination using updated encoding model based on similarity feedback from user — Patent Number: 12314878
 - 📈 Led automation initiatives that eliminated hundreds of hours of manual operational work
 - 🔐 Managed vulnerability remediation initiatives across enterprise financial systems
 
