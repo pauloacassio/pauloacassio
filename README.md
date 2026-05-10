@@ -123,10 +123,4 @@ Artificial Intelligence • Distributed Systems • AI Product Development • O
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21aakc5r3esuvs65ibsnx7xci" />
 </p>
 
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pauloacassio/pauloacassio/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/pauloacassio/pauloacassio/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
 ###
