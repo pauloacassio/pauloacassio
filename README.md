@@ -55,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -116,3 +114,9 @@ Artificial Intelligence • Distributed Systems • AI Product Development • O
 
 - LinkedIn: https://linkedin.com/in/paulo-acassio
 - Email: pauloacassio2015@outlook.com
+
+---
+
+## 🎧 Currently Listening
+
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21aakc5r3esuvs65ibsnx7xci)
