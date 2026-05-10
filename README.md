@@ -82,10 +82,10 @@
 
 ## 📚 Education
 
-### Instituto Federal do Rio Grande do Sul (@IFRS)
+### Instituto Federal do Rio Grande do Sul (IFRS)
 Technologist in Internet Systems
 
-### Universidade Federal de Goiás (@UFG)
+### Universidade Federal de Goiás (UFG)
 Bachelor of Physics (incomplete)
 
 ---
