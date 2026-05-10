@@ -4,14 +4,6 @@
 
 Passionate about building scalable AI-powered platforms, backend systems, and developer-focused solutions.
 
-Currently working at Dell Technologies leading initiatives involving:
-- Generative AI & LLM applications
-- Backend development and APIs
-- Site Reliability Engineering (SRE)
-- Automation & observability platforms
-- AI-driven internal tools
-- Enterprise financial systems
-
 I work in parallel as a Technical Product Manager while remaining hands-on in software engineering, contributing directly to the design and development of AI-based systems, backend services, automation frameworks, and internal platforms.
 
 ---
@@ -25,6 +17,7 @@ I work in parallel as a Technical Product Manager while remaining hands-on in so
 - 💻 Software Engineer focused on AI, backend systems, automation, and platform engineering
 - 🤖 Hands-on experience with LLMs, RAG pipelines, embeddings, and AI-powered applications
 - ⚙️ Experienced building internal tools using Python, FastAPI, LangChain, .NET, Angular, and React
+- 🏢 Currently working at Dell Technologies leading initiatives involving Generative AI, backend development, observability, and enterprise financial systems
 - 📊 Strong background in observability, reliability engineering, and operational excellence
 - 🧠 Interested in distributed systems, scalable architectures, and modern AI infrastructure
 - 📍 Based in Porto Alegre, Brazil
@@ -110,7 +103,8 @@ Highlights:
 
 ## 🏆 Achievements
 
-- 🇺🇸 U.S. Patent granted related to AI-based similarity models and embeddings
+- 🇺🇸 U.S. Patent granted — [Customer service ticket similarity determination using updated encoding model based on similarity feedback from user](https://ppubs.uspto.gov/api/pdf/downloadPdf/12314878?requestToken=eyJzdWIiOiI2MjFmYTBmOS1mZmZlLTRiYjUtODRlNi00NzRlODViMWY1NTUiLCJ2ZXIiOiI4ODQ4YjMxMC03YTRlLTQ0YTUtYTdlNS1mYzM4ZWZkYWZlY2IiLCJleHAiOjB9)
+- 🧠 Patent Number: 12314878
 - 📈 Led automation initiatives that eliminated hundreds of hours of manual operational work
 - 🔐 Managed vulnerability remediation initiatives across enterprise financial systems
 
